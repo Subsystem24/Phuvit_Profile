@@ -15,14 +15,14 @@ background: linear-gradient(to right, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, F
 }
 h1 {
 color: black;
-font-size: 35px;
+font-size: 50px;
 font-family: 'Poppins', sans-serif;
 text-align: center;
 font-weight: bold;
 }
 #circle_pic {
-  width: 150px;
-  height: 150px;
+  width: 300px;
+  height: 300px;
   border-radius: 150px;
   object-fit: cover;
   border:solid black;
@@ -54,15 +54,14 @@ text-align: center;
   display: inline-block;
   padding: 0px 20px;
   list-style: none;
-  padding-left: 20px;
-
+  padding-left: 120px;
 }
 
 #liverpool_link{
 color: white;
 font-family: 'Poppins', sans-serif;
 text-decoration: none;
-font-size: 15px;
+font-size: 30px;
 text-align: center;
 background-color: black; /* Green */
 border: none;
@@ -79,27 +78,27 @@ border-radius: 10px;
 
 .Profile {
   background:white;
-  padding: 35px;
+  padding: 30px;
   border-radius: 0px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
-  width: 300px;
+  width: 700px;
   margin: 0 auto 8px;
 }
 
 .social{
   background:white;
-  padding: 35px;
+  padding: 30px;
   border-radius: 0px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
-  width: 300px;
+  width: 700px;
   margin: 0 auto;
 }
 
 .container{
   background:black;
-  padding: 35px;
+  padding: 100px;
   border-radius: 0px;
-  width: 500px;
+  width: 1000px;
   margin: 0 auto;
 }
 
